@@ -1,4 +1,4 @@
-# Awesome Domain-Driven Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 436,832 | 🐛 67 | 📅 2026-01-28 with stars
+# Awesome Domain-Driven Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 437,047 | 🐛 69 | 📅 2026-01-28 with stars
 
 > A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources.
 
@@ -20,7 +20,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 ## Contents
 
-* [Awesome Domain-Driven Design](https://github.com/heynickc/awesome-ddd/) ⭐ 12,120 | 🐛 9 | 📅 2025-07-04
+* [Awesome Domain-Driven Design](https://github.com/heynickc/awesome-ddd/) ⭐ 12,121 | 🐛 9 | 📅 2025-07-04
   * [Contents](#contents)
   * [Books](#books)
   * [Free eBooks](#free-ebooks)
@@ -202,9 +202,9 @@ The term was coined by Eric Evans in his book of the same title.
 
 ### GO
 
-* [DDD by Refactoring](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) ⭐ 6,173 | 🐛 30 | 🌐 Go | 📅 2025-11-03 - Complete serverless application to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project. A full blog series about it can be found at <https://threedots.tech/>.
+* [DDD by Refactoring](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) ⭐ 6,174 | 🐛 30 | 🌐 Go | 📅 2025-11-03 - Complete serverless application to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project. A full blog series about it can be found at <https://threedots.tech/>.
 * [Citerus DDD Sample App GO Port](https://github.com/marcusolsson/goddd) ⚠️ Archived - This is an attempt to port the [DDD Sample App](https://github.com/citerus/dddsample-core) ⭐ 5,255 | 🐛 31 | 🌐 Java | 📅 2025-06-02 to idiomatic Go. It can be run in a dockerized mode for previewing the application.
-* [DDD Food App](https://github.com/victorsteven/food-app-server) ⭐ 676 | 🐛 0 | 🌐 Go | 📅 2021-12-05 - Sample DDD application implementing the 4 layers (Domain, Infrastructure, Application and Interface) and considering two domain patterns. There's a blog article written for it [here](https://dev.to/stevensunflash/using-domain-driven-design-ddd-in-golang-3ee5).
+* [DDD Food App](https://github.com/victorsteven/food-app-server) ⭐ 677 | 🐛 0 | 🌐 Go | 📅 2021-12-05 - Sample DDD application implementing the 4 layers (Domain, Infrastructure, Application and Interface) and considering two domain patterns. There's a blog article written for it [here](https://dev.to/stevensunflash/using-domain-driven-design-ddd-in-golang-3ee5).
 * [DDD Sample in GO](https://github.com/takashabe/go-ddd-sample) ⭐ 290 | 🐛 1 | 🌐 Go | 📅 2019-08-25 - Just another sample application implementing the four layers of DDD.
 * [Evolutive CRUD API](https://github.com/friendsofgo/gopherapi) ⭐ 79 | 🐛 1 | 🌐 Go | 📅 2026-01-02 - API implementation with full CRUD using a SOLID, Hexagonal Architecture. There is a series of blog post written for it at <https://blog.friendsofgo.tech/>.
 * [Simple Hexagonal Architecture PoC API](https://github.com/tomiok/patients-API) ⭐ 31 | 🐛 0 | 🌐 Go | 📅 2020-11-18 - PoC for a patients API using the hexagonal architecture pattern.
@@ -213,7 +213,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 ### .NET (C#/F#)
 
-* [Modular Monolith](https://github.com/kgrzybek/modular-monolith-with-ddd) ⭐ 13,353 | 🐛 67 | 🌐 C# | 📅 2024-06-04 - Full Modular Monolith .NET application with Domain-Driven Design approach.
+* [Modular Monolith](https://github.com/kgrzybek/modular-monolith-with-ddd) ⭐ 13,355 | 🐛 67 | 🌐 C# | 📅 2024-06-04 - Full Modular Monolith .NET application with Domain-Driven Design approach.
 * [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) ⚠️ Archived - Full ASP.NET Core 3.1 reference application from Microsoft showing monolithic deployment architecture
 * [Equinox Project](https://github.com/EduardoPires/EquinoxProject) ⭐ 6,766 | 🐛 3 | 🌐 C# | 📅 2025-06-10 - Full ASP.NET Core 3.1 application with Clean Architecture, DDD, CQRS and Event Sourcing concepts
 * [Event Sourcing .NET](https://github.com/oskardudycz/EventSourcing.NetCore) ⭐ 3,637 | 🐛 25 | 🌐 C# | 📅 2025-05-20 - samples and resources about Event Sourcing and CQRS in .NET. Contains also a self-paced kit of how to built own Event Store
@@ -262,7 +262,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 ### JVM languages
 
-* [DDD By Examples - Library](https://github.com/ddd-by-examples/library) ⭐ 5,685 | 🐛 23 | 🌐 Java | 📅 2023-07-07 - sample project of a library driven by real business requirements. Modular monolith implemented with the help od DDD, BDD, EventStorming, Example Mapping, CQRS, and more.
+* [DDD By Examples - Library](https://github.com/ddd-by-examples/library) ⭐ 5,687 | 🐛 23 | 🌐 Java | 📅 2023-07-07 - sample project of a library driven by real business requirements. Modular monolith implemented with the help od DDD, BDD, EventStorming, Example Mapping, CQRS, and more.
 * [DDDSample](https://github.com/citerus/dddsample-core) ⭐ 5,255 | 🐛 31 | 🌐 Java | 📅 2025-06-02 - Sample DDD project using Spring Boot (originally hosted in <http://dddsample.sourceforge.net/>)
 * [IDDD Samples](https://github.com/VaughnVernon/IDDD_Samples) ⭐ 3,910 | 🐛 36 | 🌐 Java | 📅 2023-09-09 - These are the sample Bounded Contexts from the book "Implementing Domain-Driven Design" by Vaughn Vernon.
 * [DDD Leaven](https://github.com/BottegaIT/ddd-leaven-v2) ⭐ 881 | 🐛 2 | 🌐 Java | 📅 2023-12-17 - DDD-CQRS sample v2.0 project that helps you with starting out advanced domain modeling using Spring, JPA and testing.
@@ -291,23 +291,23 @@ The term was coined by Eric Evans in his book of the same title.
 
 ### GO
 
-* [Ginkgo](https://github.com/onsi/ginkgo) ⭐ 8,948 | 🐛 117 | 🌐 Go | 📅 2026-02-02 - Ginkgo builds on Go's testing package, allowing expressive Behavior-Driven Development ("BDD") style tests.
-* [GoConvey](https://github.com/smartystreets/goconvey) ⭐ 8,422 | 🐛 167 | 🌐 Go | 📅 2024-07-30 - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
+* [Ginkgo](https://github.com/onsi/ginkgo) ⭐ 8,947 | 🐛 117 | 🌐 Go | 📅 2026-02-02 - Ginkgo builds on Go's testing package, allowing expressive Behavior-Driven Development ("BDD") style tests.
+* [GoConvey](https://github.com/smartystreets/goconvey) ⭐ 8,421 | 🐛 167 | 🌐 Go | 📅 2024-07-30 - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
 * [Godog](https://github.com/cucumber/godog) ⭐ 2,589 | 🐛 86 | 🌐 Go | 📅 2026-02-04 - Package godog is the official Cucumber BDD framework for Golang, it merges specification and test documentation into one cohesive whole, using Gherkin formatted scenarios in the format of Given, When, Then.
-* [GOBDD](https://github.com/go-bdd/gobdd) ⭐ 138 | 🐛 10 | 🌐 Go | 📅 2025-07-21 - Small BDD framework for GO.
+* [GOBDD](https://github.com/go-bdd/gobdd) ⭐ 138 | 🐛 9 | 🌐 Go | 📅 2026-02-12 - Small BDD framework for GO.
 
 ### .NET
 
 * [MediatR](https://github.com/jbogard/MediatR) ⭐ 11,835 | 🐛 7 | 🌐 C# | 📅 2025-12-09 - Supports request/response, commands, queries, notifications and events, synchronous and async with intelligent dispatching via C# generic variance.
-* [MassTransit](https://github.com/MassTransit/MassTransit) ⭐ 7,672 | 🐛 4 | 🌐 C# | 📅 2026-02-07 - Distributed Application Framework for .NET.
-* [Marten](https://github.com/JasperFx/marten) ⭐ 3,331 | 🐛 29 | 🌐 C# | 📅 2026-02-11 - Postgresql as a Document Database and Event Store for .Net Applications.
+* [MassTransit](https://github.com/MassTransit/MassTransit) ⭐ 7,675 | 🐛 4 | 🌐 C# | 📅 2026-02-07 - Distributed Application Framework for .NET.
+* [Marten](https://github.com/JasperFx/marten) ⭐ 3,332 | 🐛 30 | 🌐 C# | 📅 2026-02-13 - Postgresql as a Document Database and Event Store for .Net Applications.
 * [EventFlow](https://github.com/eventflow/EventFlow) ⭐ 2,537 | 🐛 15 | 🌐 C# | 📅 2025-12-06 - Async/await first CQRS+ES and DDD framework for .NET <http://geteventflow.net/>.
-* [NServiceBus](https://github.com/Particular/NServiceBus) ⭐ 2,161 | 🐛 295 | 🌐 C# | 📅 2026-02-10 - Service bus for .NET.
+* [NServiceBus](https://github.com/Particular/NServiceBus) ⭐ 2,161 | 🐛 295 | 🌐 C# | 📅 2026-02-12 - Service bus for .NET.
 * [NEventStore](https://github.com/NEventStore/NEventStore) ⭐ 1,612 | 🐛 24 | 🌐 C# | 📅 2025-09-26 - A persistence library used to abstract different storage implementations when using event sourcing as storage mechanism.
 * [shriek-fx](https://github.com/ElderJames/shriek-fx) ⚠️ Archived - An simple,elegant and useful Domain-Driven Design and CQRS framework developed using .NET Core 2.0.
 * [SqlStreamStore](https://github.com/damianh/SqlStreamStore) ⚠️ Archived - .NET Stream Store library targeting SQL based implementations.
 * [Aggregates.NET](https://github.com/volak/Aggregates.NET) ⭐ 441 | 🐛 7 | 🌐 C# | 📅 2025-05-30 - .NET event sourced domain driven design model via NServicebus and GetEventStore.
-* [Streamstone](https://github.com/yevhen/Streamstone) ⭐ 401 | 🐛 10 | 🌐 C# | 📅 2026-02-07 - Event Store for Azure Table Storage.
+* [Streamstone](https://github.com/yevhen/Streamstone) ⭐ 402 | 🐛 10 | 🌐 C# | 📅 2026-02-07 - Event Store for Azure Table Storage.
 * [AggregateSource](https://github.com/yreynhout/aggregateSource) ⭐ 259 | 🐛 9 | 🌐 C# | 📅 2022-06-22 - Lightweight infrastructure for doing eventsourcing using aggregates.
 * [Cirqus](https://github.com/d60/Cirqus) ⚠️ Archived - d60 event sourcing + CQRS framework.
 * [Projac](https://github.com/yreynhout/Projac) ⭐ 138 | 🐛 6 | 🌐 C# | 📅 2022-12-07 - Projac is a set of projection libraries that allow you to write projections targetting various backing stores.
@@ -354,7 +354,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 * [DDDplus framework](https://github.com/funkygao/cp-ddd-framework) ⭐ 1,157 | 🐛 3 | 🌐 Java | 📅 2025-12-19 - A lightweight flexible development framework for complex business architecture based on DDD.
 * [akka-ddd](https://github.com/pawelkaczor/akka-ddd) ⭐ 359 | 🐛 5 | 🌐 Scala | 📅 2025-06-01 - Reusable artifacts for building applications on top of the Akka platform following CQRS/DDDD-based approach.
-* [Ahoo-Wang/Wow](https://github.com/Ahoo-Wang/Wow) ⭐ 282 | 🐛 13 | 🌐 Kotlin | 📅 2026-02-12 - A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.
+* [Ahoo-Wang/Wow](https://github.com/Ahoo-Wang/Wow) ⭐ 282 | 🐛 13 | 🌐 Kotlin | 📅 2026-02-13 - A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.
 * [JESA](https://github.com/yreynhout/JESA) ⭐ 9 | 🐛 3 | 🌐 Java | 📅 2016-07-26 -  Event sourced aggregates for Java.
 * [Apache Isis](https://isis.apache.org/index.html) - Apache Isis is a framework for rapidly developing domain-driven apps in Java.
 * [Axon Framework](http://www.axonframework.org/) - The axon framework is focused on making life easier for developers that want to create a java application based on the CQRS principles.
